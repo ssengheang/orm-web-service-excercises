@@ -1,0 +1,30 @@
+{
+    "articles": [
+      {
+        "id": 1,
+        "title": "First Article",
+        "contents": "This is the content of the first article.",
+        "created_by": "admin",
+        "is_published": true,
+        "created_at": "2023-07-01T12:00:00Z",
+        "updated_at": "2023-07-01T12:00:00Z"
+      },
+      {
+        "id": 1,
+        "title": "First",
+        "contents": "This is the content of the first article.",
+        "created_by": "user",
+        "is_published": true,
+        "created_at": "2023-07-01T12:00:00Z",
+        "updated_at": "2023-07-01T12:00:00Z"
+      }
+    ],
+    "users": [
+      {
+        "id": 1,
+        "username": "admin",
+        "password": "password123"
+      }
+    ]
+  }
+  
